@@ -15,7 +15,7 @@
 #### listRole.jsp  
 ![avatar](src/media/listRole.png)
 ##### listPermission.jsp  
-![avatar](src/media/listPermisson.png)
+![avatar](src/media/listPermission.png)
 
 
 
