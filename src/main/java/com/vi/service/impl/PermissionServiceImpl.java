@@ -84,7 +84,6 @@ public class PermissionServiceImpl implements PermissionService {
     @Override
     public boolean needInterceptor(String requestURI) {
         List<Permission> permissions = list();
-        System.out.println("requestURI:"+requestURI);
         for (Permission permission : permissions) {
             String url = permission.getUrl();
             System.out.println(url);
