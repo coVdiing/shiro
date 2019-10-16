@@ -1,0 +1,58 @@
+span.desc {
+    margin-left: 20px;
+    color: gray;
+}
+div.workingroom {
+    margin: 200px auto;
+    max-width: 1013px;
+    height: 500px;
+}
+
+div.workingDiv {
+    margin: 200px auto;
+    max-width: 1013px;
+    height: 500px;
+    position: relative;
+}
+
+div.workingDiv a {
+    display: inline-block;
+}
+
+div.loginDiv {
+    text-align: left;
+}
+
+div.errorInfo {
+    color: red;
+    font-size: 0.65em;
+}
+
+div.menu {
+    width: 100px;
+    margin: 20px;
+    text-align: center;
+    float: left;
+}
+
+div.menu a {
+    text-decoration: none;
+    display: block;
+    margin: 20px;
+}
+
+div.menu a:hover {
+    color: #C40000;
+}
+
+div.right {
+
+    position: absolute;
+    left: 150px;
+}
+
+
+div table {
+    width: 800px;
+    margin: 10px;
+}
